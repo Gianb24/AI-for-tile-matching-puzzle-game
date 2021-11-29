@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/bg-base.png</file>
+        <file>res/images/newgame-pushed.png</file>
+        <file>res/images/normal-pushed.png</file>
+        <file>res/images/ai-pushed.png</file>
+        <file>res/images/options-pushed.png</file>
+        <file>res/images/hint.png</file>
+        <file>res/images/timetrial-pushed.png</file>
+        <file>res/images/gem-sprite.png</file>
+        <file>res/images/timetrial-selected.png</file>
+        <file>res/images/normal-selected.png</file>
+        <file>res/images/scorefont.png</file>
+        <file>res/images/bejeweled-icon.png</file>
+        <file>res/images/dialogbox2.png</file>
+        <file>res/images/boxbutton2.png</file>
+        <file>res/sounds/gameover.wav</file>
+        <file>res/sounds/getready.wav</file>
+        <file>res/sounds/options3.wav</file>
+        <file>res/sounds/bad2.wav</file>
+        <file>res/sounds/combo32.wav</file>
+        <file>res/sounds/click2.wav</file>
+        <file>res/sounds/hint.wav</file>
+    </qresource>
+</RCC>
