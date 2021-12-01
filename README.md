@@ -5,6 +5,7 @@ Matching tile games are an extremely popular game genre. They are simple to unde
 
 ## Example
 [![youtube video](https://img.youtube.com/vi/Y7B29zehkCY/0.jpg)](https://youtu.be/Y7B29zehkCY)
+<br />
 Video link: https://youtu.be/Y7B29zehkCY
 
 ## Alternative approach
